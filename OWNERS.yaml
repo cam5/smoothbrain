@@ -1,0 +1,30 @@
+# Ownership and identity for this brain (RFC §7). Handles here are reedright handles, not git identities.
+# A change to this file needs approval from all current owners of OWNERS.yaml.
+identities:
+  cameron:
+    name: Cameron
+    channels:
+      - email:heavy.spot3431@fastmail.com
+domains:
+  marketing:
+    owners:
+      - cameron
+  compliance:
+    owners:
+      - cameron
+  engineering:
+    owners:
+      - cameron
+  ops:
+    owners:
+      - cameron
+paths:
+  refs/:
+    owners:
+      - cameron
+  SCHEMA.md:
+    owners:
+      - cameron
+  OWNERS.yaml:
+    owners:
+      - cameron
