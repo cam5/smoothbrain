@@ -1,5 +1,7 @@
 # Example brain
 
+![feelsgood](docs/images/feelsgood.jpg)
+
 Shared context for people and agents. Flat files in git. Nothing else is the brain.
 
 - Read `MANIFEST.md` first, then read entries by path.
