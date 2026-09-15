@@ -1,6 +1,6 @@
-# Live it Up brain
+# Example brain
 
-Shared context for Live it Up's people and agents. Flat files in git. Nothing else is the brain.
+Shared context for people and agents. Flat files in git. Nothing else is the brain.
 
 - Read `MANIFEST.md` first, then read entries by path.
 - The schema is `SCHEMA.md`. Ownership and identity are in `OWNERS.yaml`.
