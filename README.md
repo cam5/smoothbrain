@@ -20,4 +20,4 @@ observations/<domain>/ agent-written; auto-merge on lint; 30-day review
 archive/               nothing is deleted
 ```
 
-Agents connect through reedright: https://reedright.info/orgs/liveitup
+Agents connect through reedright: https://reedright.info/
